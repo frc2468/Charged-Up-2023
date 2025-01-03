@@ -1,0 +1,509 @@
+4/21/2023 7:56:12 AM
+[General]
+Project: C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\2023 Charged Up Robot Project.lvproj
+Target: Target
+Build Specification: Paths
+OS: Windows NT 10.0
+
+[Open Top Level VIs]
+
+[Source Files]
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ccMidConeAndGetCube.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ccMidConeAndGetCubeNOCOM.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ChargingStation.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\coopScoreAndBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\DriveForwardConeScore.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\fakepath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Get3Balance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\LeaveCommunityBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ManipulatorIdle.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ScoreCable3Throw.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ScoreMidConeTest.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ScoreOutsideGetCubeBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\ScoreOutsideGetCubeScoreBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3Throw1.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3Throw2.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3Throw3.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3Throw4.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3Throw5.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3ThrowEndOff.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ccScore3ThrowEndOff2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGather.bdx	4/5/2023 8:39:08 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGatherBalance2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\FeederScoreGatherScoreBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleNoObject1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleNoObject2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleScoreGatherBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectFeeder1.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectFeeder2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectFeeder3.bdx	4/6/2023 5:48:00 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectWall1.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectWall2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleTwoObjectWall3.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleWallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\MiddleWallScoreGatherBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreConeGatherCubes1.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreConeGatherCubes2.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\scoreCoopGrabCubeBalance.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreCube2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreHighCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ScoreMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\straight10.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\straight4.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\straight8.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\straight9.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\test1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\test2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder3.bdx	4/20/2023 5:31:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder4.bdx	4/21/2023 7:49:56 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder4Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall2.5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall2.6.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall3.1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall3.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall4.1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall4.bdx	4/18/2023 11:02:41 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\ThreeObjectWall5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\transaligntest.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectFeeder2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectFeeder4Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectWall1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectWall2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\TwoObjectWall3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGather.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGather2ndCone.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGather2ndConeBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGather2ndConeReturn.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2468\WallScoreGatherSpit.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3Throw1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3Throw2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3Throw3.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3Throw4.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3Throw5.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3ThrowEndOff.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ccScore3ThrowEndOff2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGather2ndCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherBalance2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherScoreBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreGatherScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreReturnWithCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\FeederScoreSecondCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleNoObject1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleNoObject2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectFeeder1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectFeeder2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectFeeder3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectWall1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectWall2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleTwoObjectWall3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleWallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\MiddleWallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreConeGatherCubes1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreConeGatherCubes2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\scoreCoopGrabCubeBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreCube2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreHCGetCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreHCReturnMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreHighCone.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreHighCube.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreMidCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ScoreMidCube.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\straight10.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\straight4.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\straight8.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\straight9.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall2.5.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall2.6.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall3.1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall4.1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall4.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\ThreeObjectWall5.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGather2ndCone.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGather2ndConeBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGather2ndConeReturn.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\2687\WallScoreGatherSpit.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\FeederScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\FeederScoreGather2nd.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\FeederScoreGatherScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\FeederScoreGatherScoreBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleNoObject1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleNoObject2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleWallScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\MiddleWallScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreConeGatherCubes1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreConeGatherCubes2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreCube2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreHighCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ScoreMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\straight10.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\straight4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\straight8.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\straight9.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectRPFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectRPFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectRPFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectRPFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\ThreeObjectRPFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\WallScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\WallScoreGather2ndCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\WallScoreGather2ndConeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\WallScoreGather2ndConeReturn.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\safe\WallScoreGatherSpit.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\fakepath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\Square.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight10.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight12.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight16.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight28.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight4.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight8.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\straight9.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\StraightMidLine.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\Test.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\TestHeadingPath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\TestIntake.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\Tilted.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\turnInPlace90.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Testing\Vision Test.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccMidConeAndGetCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccMidConeAndGetCubeNOCOM.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3Throw1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3Throw2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3Throw3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3Throw4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3Throw5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3ThrowEndOff.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ccScore3ThrowEndOff2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ChargingStation.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\coopScoreAndBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\DriveForwardConeScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\fakepath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\FeederScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\FeederScoreGatherBalance2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\Get3Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\LeaveCommunityBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ManipulatorIdle.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreCable3Throw.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreConeGatherCubes1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreConeGatherCubes2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\scoreCoopGrabCubeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreCube2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreMidConeTest.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreOutsideGetCubeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ScoreOutsideGetCubeScoreBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ThreeObjectRPFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ThreeObjectRPFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ThreeObjectRPFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ThreeObjectRPFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\ThreeObjectRPFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\WallScoreGather2nd.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\WallScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\2468 Archive\WallScoreGatherScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\fakepath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\Square.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight10.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight12.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight16.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight28.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight8.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\straight9.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\StraightMidLine.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\Test.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\TestHeadingPath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\TestIntake.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\Tilted.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\turnInPlace90.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\2023 Charged Up Robot Project\Paths\Archive\Testing\Vision Test.bdx	4/5/2023 8:38:23 AM
+
+[Output Files]
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ccMidConeAndGetCube.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ccMidConeAndGetCubeNOCOM.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ChargingStation.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\coopScoreAndBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\DriveForwardConeScore.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\fakepath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Get3Balance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\LeaveCommunityBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ManipulatorIdle.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ScoreCable3Throw.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ScoreMidConeTest.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ScoreOutsideGetCubeBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\ScoreOutsideGetCubeScoreBalance.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3Throw1.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3Throw2.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3Throw3.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3Throw4.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3Throw5.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3ThrowEndOff.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ccScore3ThrowEndOff2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGather.bdx	4/5/2023 8:39:08 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGatherBalance2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\FeederScoreGatherScoreBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleNoObject1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleNoObject2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleScoreGatherBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectFeeder1.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectFeeder2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectFeeder3.bdx	4/6/2023 5:48:00 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectWall1.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectWall2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleTwoObjectWall3.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleWallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\MiddleWallScoreGatherBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreConeGatherCubes1.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreConeGatherCubes2.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\scoreCoopGrabCubeBalance.bdx	3/11/2023 9:33:55 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreCube2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreHighCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ScoreMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\straight10.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\straight4.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\straight8.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\straight9.bdx	3/4/2023 7:45:17 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\test1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\test2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder3.bdx	4/20/2023 5:31:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder4.bdx	4/21/2023 7:49:56 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder4Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall2.5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall2.6.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall3.1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall3.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall4.1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall4.bdx	4/18/2023 11:02:41 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\ThreeObjectWall5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\transaligntest.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectFeeder2.bdx	4/17/2023 9:29:22 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectFeeder4Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectWall1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectWall2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\TwoObjectWall3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGather.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGather2ndCone.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGather2ndConeBalance.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGather2ndConeReturn.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2468\WallScoreGatherSpit.bdx	4/1/2023 9:24:05 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3Throw1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3Throw2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3Throw3.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3Throw4.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3Throw5.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3ThrowEndOff.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ccScore3ThrowEndOff2.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGather2ndCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherBalance2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherScoreBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreGatherScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreReturnWithCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\FeederScoreSecondCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleNoObject1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleNoObject2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectFeeder1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectFeeder2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectFeeder3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectWall1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectWall2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleTwoObjectWall3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleWallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\MiddleWallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreConeGatherCubes1.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreConeGatherCubes2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\scoreCoopGrabCubeBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreCube2.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreHCGetCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreHCReturnMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreHighCone.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreHighCube.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreMidCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ScoreMidCube.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\straight10.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\straight4.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\straight8.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\straight9.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall2.5.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall2.6.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall2.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall3.1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall3.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall4.1.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall4.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\ThreeObjectWall5.bdx	4/17/2023 9:45:09 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGather.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGather2nd.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGather2ndCone.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGather2ndConeBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGather2ndConeReturn.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGatherBalance.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGatherScore.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\2687\WallScoreGatherSpit.bdx	3/15/2023 7:03:29 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\FeederScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\FeederScoreGather2nd.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\FeederScoreGatherScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\FeederScoreGatherScoreBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleNoObject1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleNoObject2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleWallScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\MiddleWallScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreConeGatherCubes1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreConeGatherCubes2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreCube2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreHighCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreHighCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ScoreMidCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\straight10.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\straight4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\straight8.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\straight9.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectRPFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectRPFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectRPFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectRPFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\ThreeObjectRPFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\WallScoreGather.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\WallScoreGather2ndCone.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\WallScoreGather2ndConeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\WallScoreGather2ndConeReturn.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\safe\WallScoreGatherSpit.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\fakepath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\Square.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight10.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight12.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight16.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight28.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight4.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight8.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\straight9.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\StraightMidLine.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\Test.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\TestHeadingPath.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\TestIntake.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\Tilted.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\turnInPlace90.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Testing\Vision Test.bdx	3/3/2023 12:00:19 PM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccMidConeAndGetCube.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccMidConeAndGetCubeNOCOM.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3Throw1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3Throw2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3Throw3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3Throw4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3Throw5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3ThrowEndOff.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ccScore3ThrowEndOff2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ChargingStation.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\coopScoreAndBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\DriveForwardConeScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\fakepath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\FeederScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\FeederScoreGatherBalance2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\Get3Balance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\LeaveCommunityBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ManipulatorIdle.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreCable3Throw.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreConeGatherCubes1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreConeGatherCubes2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\scoreCoopGrabCubeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreCube2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreMidConeTest.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreOutsideGetCubeBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ScoreOutsideGetCubeScoreBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ThreeObjectRPFeeder1.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ThreeObjectRPFeeder2.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ThreeObjectRPFeeder3.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ThreeObjectRPFeeder4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\ThreeObjectRPFeeder5.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\WallScoreGather2nd.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\WallScoreGatherBalance.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\2468 Archive\WallScoreGatherScore.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\fakepath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\Square.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight10.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight12.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight16.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight28.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight4.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight8.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\straight9.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\StraightMidLine.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\Test.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\TestHeadingPath.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\TestIntake.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\Tilted.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\turnInPlace90.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\home\lvuser\natinst\bin\Paths\Archive\Testing\Vision Test.bdx	4/5/2023 8:38:23 AM
+C:\Users\tusca\Legit LabVIEW\charged-up-2023\builds\2023 Charged Up Robot Project\Target\Paths\Paths_depinstr.bin	4/21/2023 7:56:16 AM
+
+4/21/2023 7:56:16 AM

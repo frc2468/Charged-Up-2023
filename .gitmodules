@@ -1,0 +1,9 @@
+[submodule "swerve"]
+	path = swerve
+	url = https://eisd-robotics.eanesisd.net/2468/swerve
+[submodule "bordeaux-pathinator"]
+	path = bordeaux-pathinator
+	url = https://eisd-robotics.eanesisd.net/2468/bordeaux-pathinator
+[submodule "charged-up-dashboard-2023"]
+	path = charged-up-dashboard-2023
+	url = https://eisd-robotics.eanesisd.net/Unnathi/charged-up-dashboard-2023
